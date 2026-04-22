@@ -5,7 +5,7 @@
 
 ## 📍 Overview
 
-This project analyzes the **network-wide traffic impacts** of the March 26, 2024 collapse of the Francis Scott Key Bridge using high-resolution INRIX ClearGuide data.
+This project analyzes the **network-wide traffic impacts** of the March 26, 2024 collapse of the Francis Scott Key Bridge using high-resolution Iteris ClearGuide data.
 
 The objective is to move beyond simple before/after comparisons and provide:
 
@@ -87,8 +87,8 @@ Controls for:
 
 - Significant increases in congestion across multiple corridors
 - Impacts were **spatially uneven**, concentrated in specific routes
-- 일부 corridors는 Fall/Winter까지 영향 지속 (persistent disruption)
-- 단순 평균 분석으로는 **critical corridors 식별 불가능**
+- Impacts persisted in some corridors through the Fall/Winter (persistent disruption)
+- **Critical corridors cannot be identified** through simple average analysis alone
 
 ---
 
