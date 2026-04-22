@@ -82,6 +82,18 @@ Controls for:
 - Captures both fixed and random variations across corridors
 
 ---
+## 📈 Key Results
+
+### Network Impact (Congestion Increase)
+![TTI Change](figures/tti_change.png)
+
+### Temporal Impact (Before vs After)
+![Speed Trend](figures/speed_trend.png)
+
+### Spatial Impact (Corridor-Level)
+![Map](figures/tti_map.png)
+
+
 
 ## 🔍 Key Findings
 
