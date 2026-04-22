@@ -104,25 +104,22 @@ Controls for:
 ## 🗂 Project Structure
 
 
-clearguide-bridge-impact-portfolio/
-│
-├── notebooks/
-│ └── 01_clearguide_bridge_impact_portfolio.ipynb
-│
-├── src/
-│ └── analysis_utils.py
-│
-├── data/
-│ └── (not included – user-provided ClearGuide dataset)
-│
-├── figures/
-│ └── (recommended: key result plots)
-│
-├── archive/
-│ └── original_notebooks/
-│
-└── README.md
 
+README에 바로 넣을 땐 바깥쪽 ` ```markdown ` 없이 아래만 넣으면 돼:
+
+```text
+clearguide-bridge-impact-portfolio/
+├── notebooks/
+│   └── 01_clearguide_bridge_impact_portfolio.ipynb
+├── src/
+│   └── analysis_utils.py
+├── data/
+│   └── (not included – user-provided ClearGuide dataset)
+├── figures/
+│   └── (recommended: key result plots)
+├── archive/
+│   └── original_notebooks/
+└── README.md
 
 ---
 
