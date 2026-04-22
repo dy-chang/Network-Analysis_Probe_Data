@@ -105,7 +105,7 @@ Controls for:
 
 
 
-README에 바로 넣을 땐 바깥쪽 ` ```markdown ` 없이 아래만 넣으면 돼:
+
 
 ```text
 clearguide-bridge-impact-portfolio/
